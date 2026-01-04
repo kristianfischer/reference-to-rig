@@ -36,9 +36,18 @@ ui/src-tauri/target/
 # IDE
 .idea/
 .vscode/
+.vs/
 *.swp
 *.swo
 *~
+
+# JUCE Plugin
+plugin/build/
+plugin/JUCE/
+plugin/out/
+*.vst3
+*.component
+*.aaxplugin
 
 # OS
 .DS_Store
