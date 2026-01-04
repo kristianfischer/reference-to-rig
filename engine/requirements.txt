@@ -1,0 +1,55 @@
+# Core
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Audio Processing
+numpy>=1.24.0
+scipy>=1.11.0
+librosa>=0.10.1
+soundfile>=0.12.1
+pydub>=0.25.1
+pyloudnorm>=0.1.1
+
+# ML / Embeddings
+torch>=2.1.0
+torchaudio>=2.1.0
+faiss-cpu>=1.7.4
+transformers>=4.36.0
+huggingface-hub>=0.20.0
+
+# SAM Audio (facebook/sam-audio-large)
+# Official repo: https://github.com/facebookresearch/sam-audio
+# Requires HuggingFace authentication and model access approval
+# Then: huggingface-cli login
+# See: https://huggingface.co/facebook/sam-audio-large
+sam-audio @ git+https://github.com/facebookresearch/sam-audio.git
+
+# Neural Amp Modeler (NAM) for guitar amp simulation
+# Download models from: https://tonehunt.org
+neural-amp-modeler>=0.12.0
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# Utilities
+python-multipart>=0.0.6
+aiofiles>=23.2.1
+httpx>=0.25.0
+structlog>=23.2.0
+tenacity>=8.2.3
+
+# Optimization
+cma>=3.3.0
+
+# Dev/Test
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+mypy>=1.7.0
+ruff>=0.1.6
+black>=23.11.0
+pre-commit>=3.6.0
+

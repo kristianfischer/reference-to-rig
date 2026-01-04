@@ -1,0 +1,11 @@
+# Place Tauri app icons here
+# Required files:
+# - 32x32.png
+# - 128x128.png
+# - 128x128@2x.png
+# - icon.icns (macOS)
+# - icon.ico (Windows)
+#
+# Generate from SVG using: https://tauri.app/v1/guides/features/icons
+
+

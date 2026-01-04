@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+.eggs/
+*.egg-info/
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+*.pth
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+*.bundle.js
+*.bundle.js.map
+
+# Tauri
+ui/src-tauri/target/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Data
+data/
+*.db
+*.sqlite
+*.bin
+
+# Audio files (keep samples)
+*.wav
+*.mp3
+*.flac
+!capture_library/cab_irs/*.wav
+
+# Logs
+*.log
+logs/
+
+# Temp
+tmp/
+temp/
+.tmp/
+
+

@@ -1,0 +1,3972 @@
+{
+  "nam_models": [
+    {
+      "id": "george_b_ceriatone_king_kong_chan2_60s_br_sw2_l",
+      "name": "George B Ceriatone King Kong  chan2 60s br sw2 L",
+      "file_path": "nam_models/George B Ceriatone King Kong  chan2 60s br sw2 L.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_kk_ch2_60s_solo_80s",
+      "name": "George B Ceriatone King Kong  KK Ch2 60s solo 80s",
+      "file_path": "nam_models/George B Ceriatone King Kong  KK Ch2 60s solo 80s.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_chan2_70s_both_br_sw_",
+      "name": "George B Ceriatone King Kong chan2 70s both br sw L",
+      "file_path": "nam_models/George B Ceriatone King Kong chan2 70s both br sw L.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_channel_1_60s_mode",
+      "name": "George B Ceriatone King Kong Channel 1 60s mode",
+      "file_path": "nam_models/George B Ceriatone King Kong Channel 1 60s mode.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_channel_2_80s_mode_bo",
+      "name": "George B Ceriatone King Kong Channel 2 80s mode both br sw R",
+      "file_path": "nam_models/George B Ceriatone King Kong Channel 2 80s mode both br sw R.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_nam_capture_bogner_bl",
+      "name": "George B Ceriatone King Kong NAM Capture Bogner Blue Chase Tone Secret Pre Deco",
+      "file_path": "nam_models/George B Ceriatone King Kong NAM Capture Bogner Blue Chase Tone Secret Pre Deco.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_nam_capture_boosted_p",
+      "name": "George B Ceriatone King Kong NAM Capture Boosted peace keeper Chase Tone Secret Pre Deco v2",
+      "file_path": "nam_models/George B Ceriatone King Kong NAM Capture Boosted peace keeper Chase Tone Secret Pre Deco v2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_nam_capture_broadcast",
+      "name": "George B Ceriatone King Kong NAM Capture Broadcast Chase Tone Secret Pre Deco",
+      "file_path": "nam_models/George B Ceriatone King Kong NAM Capture Broadcast Chase Tone Secret Pre Deco.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_nam_capture_protein_c",
+      "name": "George B Ceriatone King Kong NAM Capture Protein Chase Tone Secret Pre Deco ",
+      "file_path": "nam_models/George B Ceriatone King Kong NAM Capture Protein Chase Tone Secret Pre Deco .nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_ceriatone_king_kong_nam_capture_turbo_non",
+      "name": "George B Ceriatone King Kong NAM Capture Turbo Nonna Chase Tone Secret Pre Deco",
+      "file_path": "nam_models/George B Ceriatone King Kong NAM Capture Turbo Nonna Chase Tone Secret Pre Deco.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "george_b_v4_countess_300eps",
+      "name": "George B V4 Countess 300eps",
+      "file_path": "nam_models/George B V4 Countess 300eps.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_5150_blockletter_boosted",
+      "name": "Helga B 5150 BlockLetter - Boosted",
+      "file_path": "nam_models/Helga B 5150 BlockLetter - Boosted.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "high_gain",
+        "evh"
+      ]
+    },
+    {
+      "id": "helga_b_5150_blockletter_noboost",
+      "name": "Helga B 5150 BlockLetter - NoBoost",
+      "file_path": "nam_models/Helga B 5150 BlockLetter - NoBoost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "high_gain",
+        "evh"
+      ]
+    },
+    {
+      "id": "helga_b_6505_green_ch_mxr_drive",
+      "name": "Helga B 6505+ Green ch - MXR Drive",
+      "file_path": "nam_models/Helga B 6505+ Green ch - MXR Drive.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6505_green_ch_noboost",
+      "name": "Helga B 6505+ Green ch - NoBoost",
+      "file_path": "nam_models/Helga B 6505+ Green ch - NoBoost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6505_red_ch_mxr_drive_v2",
+      "name": "Helga B 6505+ Red ch - MXR Drive V2",
+      "file_path": "nam_models/Helga B 6505+ Red ch - MXR Drive V2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6505_red_ch_mxr_drive",
+      "name": "Helga B 6505+ Red ch - MXR Drive",
+      "file_path": "nam_models/Helga B 6505+ Red ch - MXR Drive.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6505_red_ch_noboost_rock",
+      "name": "Helga B 6505+ Red Ch - NoBoost rock",
+      "file_path": "nam_models/Helga B 6505+ Red Ch - NoBoost rock.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6505_red_ch_noboost",
+      "name": "Helga B 6505+ Red ch - NoBoost",
+      "file_path": "nam_models/Helga B 6505+ Red ch - NoBoost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6534_mxr_m77_helga_behrens",
+      "name": "Helga B 6534+ MXR M77 - Helga Behrens",
+      "file_path": "nam_models/Helga B 6534+ MXR M77 - Helga Behrens.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6534_mxr_m77",
+      "name": "Helga B 6534+ MXR M77",
+      "file_path": "nam_models/Helga B 6534+ MXR M77.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6534_no_boost",
+      "name": "Helga B 6534+ No Boost",
+      "file_path": "nam_models/Helga B 6534+ No Boost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_6534_od808",
+      "name": "Helga B 6534+ OD808",
+      "file_path": "nam_models/Helga B 6534+ OD808.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_boss_os_2",
+      "name": "Helga B Boss OS-2",
+      "file_path": "nam_models/Helga B Boss OS-2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_gci_jugendstil",
+      "name": "Helga B GCI Jugendstil",
+      "file_path": "nam_models/Helga B GCI Jugendstil.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_iii_blue_m77_boost",
+      "name": "Helga B III Blue - M77 Boost",
+      "file_path": "nam_models/Helga B III Blue - M77 Boost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_iii_blue_noboost",
+      "name": "Helga B III Blue - NoBoost",
+      "file_path": "nam_models/Helga B III Blue - NoBoost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_iii_red_805_boost",
+      "name": "Helga B III Red - 805 Boost",
+      "file_path": "nam_models/Helga B III Red - 805 Boost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_iii_red_noboost",
+      "name": "Helga B III Red - NoBoost",
+      "file_path": "nam_models/Helga B III Red - NoBoost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_iii_red_noboostballs",
+      "name": "Helga B III Red - NoBoostBALLS",
+      "file_path": "nam_models/Helga B III Red - NoBoostBALLS.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_jsx_ultra_m77_fixed",
+      "name": "Helga B JSX Ultra - M77(FIXED)",
+      "file_path": "nam_models/Helga B JSX Ultra - M77(FIXED).nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_jsx_ultra_m77_ground_hum",
+      "name": "Helga B JSX Ultra - M77(GROUND HUM)",
+      "file_path": "nam_models/Helga B JSX Ultra - M77(GROUND HUM).nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_jsx_ultra_no_boost",
+      "name": "Helga B JSX Ultra - No Boost",
+      "file_path": "nam_models/Helga B JSX Ultra - No Boost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_jsx_ultra_od808",
+      "name": "Helga B JSX Ultra - OD808",
+      "file_path": "nam_models/Helga B JSX Ultra - OD808.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_jsx_crunch_m77_esr0_007",
+      "name": "Helga B JSX-Crunch-M77-ESR0,007",
+      "file_path": "nam_models/Helga B JSX-Crunch-M77-ESR0,007.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_jsx_crunch_noboost_0_004",
+      "name": "Helga B JSX-Crunch-NoBoost-0,004",
+      "file_path": "nam_models/Helga B JSX-Crunch-NoBoost-0,004.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_jsx_crunch_od808_esr0_007",
+      "name": "Helga B JSX-Crunch-OD808-ESR0,007",
+      "file_path": "nam_models/Helga B JSX-Crunch-OD808-ESR0,007.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_pp_rot_mid_boost",
+      "name": "Helga B PP Rot Mid Boost",
+      "file_path": "nam_models/Helga B PP Rot Mid Boost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_pp_rot_mid_scoop",
+      "name": "Helga B PP Rot Mid Scoop",
+      "file_path": "nam_models/Helga B PP Rot Mid Scoop.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_pp_wendigo",
+      "name": "Helga B PP Wendigo",
+      "file_path": "nam_models/Helga B PP Wendigo.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "helga_b_xxx_6l6_m77_esr0015",
+      "name": "Helga B XXX-6L6-M77-ESR0015",
+      "file_path": "nam_models/Helga B XXX-6L6-M77-ESR0015.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_xxx_6l6_od808_esr0015",
+      "name": "Helga B XXX-6L6-OD808-ESR0015",
+      "file_path": "nam_models/Helga B XXX-6L6-OD808-ESR0015.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_xxx_6l6_pp_rot_midboost_esr056",
+      "name": "Helga B XXX-6L6-PP-Rot-MidBoost-ESR056",
+      "file_path": "nam_models/Helga B XXX-6L6-PP-Rot-MidBoost-ESR056.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_xxx_6l6_pp_rot_midscoop_esr061",
+      "name": "Helga B XXX-6L6-PP-Rot-MidScoop-ESR061",
+      "file_path": "nam_models/Helga B XXX-6L6-PP-Rot-MidScoop-ESR061.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_xxx_6l6_wendigo_esr0_016",
+      "name": "Helga B XXX-6L6-Wendigo-ESR0,016",
+      "file_path": "nam_models/Helga B XXX-6L6-Wendigo-ESR0,016.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "helga_b_xxx_kt77_m77",
+      "name": "Helga B XXX-KT77-M77",
+      "file_path": "nam_models/Helga B XXX-KT77-M77.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_xxx_kt77_noboost",
+      "name": "Helga B XXX-KT77-NoBoost",
+      "file_path": "nam_models/Helga B XXX-KT77-NoBoost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "helga_b_xxx_kt77_od808",
+      "name": "Helga B XXX-KT77-OD808",
+      "file_path": "nam_models/Helga B XXX-KT77-OD808.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "jason_z_boss_hm2_v1_kinda_bass_heavy_with_medium_d",
+      "name": "Jason Z Boss HM2 v1 kinda bass heavy with medium distortion pure everything turned all the way up tone",
+      "file_path": "nam_models/Jason Z Boss HM2 v1 kinda bass heavy with medium distortion pure everything turned all the way up tone.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "jason_z_boss_hm2btfo_heavy_distortion_meant_to_be_",
+      "name": "Jason Z Boss HM2BTFO heavy distortion meant to be standalone less bass more honk",
+      "file_path": "nam_models/Jason Z Boss HM2BTFO heavy distortion meant to be standalone less bass more honk.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "jason_z_boss_hm2eq_light_distortion_with_dimed_eq_",
+      "name": "Jason Z Boss HM2EQ light distortion with dimed EQ knobs use before an amp",
+      "file_path": "nam_models/Jason Z Boss HM2EQ light distortion with dimed EQ knobs use before an amp.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "jason_z_ksr_ceres_light_blue_channel_all_noon_eq",
+      "name": "Jason Z KSR CERES - light blue channel - all noon EQ",
+      "file_path": "nam_models/Jason Z KSR CERES - light blue channel - all noon EQ.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "jason_z_ksr_ceres_purple_channel_all_noon_eq",
+      "name": "Jason Z KSR CERES - purple channel - all noon EQ",
+      "file_path": "nam_models/Jason Z KSR CERES - purple channel - all noon EQ.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "jason_z_ksr_vesta_light_blue_channel_all_noon_eq",
+      "name": "Jason Z KSR VESTA - light blue channel - all noon EQ",
+      "file_path": "nam_models/Jason Z KSR VESTA - light blue channel - all noon EQ.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "jason_z_ksr_vesta_purple_channel_all_noon_eq",
+      "name": "Jason Z KSR VESTA - purple channel - all noon EQ",
+      "file_path": "nam_models/Jason Z KSR VESTA - purple channel - all noon EQ.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "jason_z_line_6_ubermetal_insane_droom_metal_at_its",
+      "name": "Jason Z Line 6 UBERMETAL INSANE droom metal at its best",
+      "file_path": "nam_models/Jason Z Line 6 UBERMETAL INSANE droom metal at its best.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "jason_z_soldano_super_lead_overdrive_pedal_nice_cr",
+      "name": "Jason Z Soldano - Super Lead Overdrive pedal nice crunchy rhythm tone",
+      "file_path": "nam_models/Jason Z Soldano - Super Lead Overdrive pedal nice crunchy rhythm tone.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "jason_z_tech21_dug_dp3x_bass_preamp_pedal_all_dime",
+      "name": "Jason Z Tech21 dUg DP3X bass preamp pedal all dimed no shift",
+      "file_path": "nam_models/Jason Z Tech21 dUg DP3X bass preamp pedal all dimed no shift.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "keith_b_ds1_g6_t5",
+      "name": "Keith B DS1_g6_t5",
+      "file_path": "nam_models/Keith B DS1_g6_t5.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "keith_b_ds1_maxg_t5",
+      "name": "Keith B DS1_maxg_t5",
+      "file_path": "nam_models/Keith B DS1_maxg_t5.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "keith_b_klone_g6_t6_o5",
+      "name": "Keith B klone_g6_t6_o5",
+      "file_path": "nam_models/Keith B klone_g6_t6_o5.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "keith_b_klone_maxg_t6_o5",
+      "name": "Keith B klone_maxG_t6_o5",
+      "file_path": "nam_models/Keith B klone_maxG_t6_o5.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "keith_b_klone_plus_bb_highgain",
+      "name": "Keith B Klone_plus_BB_highGain",
+      "file_path": "nam_models/Keith B Klone_plus_BB_highGain.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "keith_b_klone_plus_bb_lowgain",
+      "name": "Keith B Klone_plus_BB_lowgain",
+      "file_path": "nam_models/Keith B Klone_plus_BB_lowgain.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "keith_b_klone_plus_bb_medgain",
+      "name": "Keith B Klone_plus_BB_medGain",
+      "file_path": "nam_models/Keith B Klone_plus_BB_medGain.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "keith_b_plumesclone_maxg_t5_switch1",
+      "name": "Keith B PlumesClone_maxG_t5_switch1",
+      "file_path": "nam_models/Keith B PlumesClone_maxG_t5_switch1.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "keith_b_plumesclone_maxg_t5_switch3",
+      "name": "Keith B PlumesClone_maxG_t5_switch3",
+      "file_path": "nam_models/Keith B PlumesClone_maxG_t5_switch3.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "luis_r_driftwood_purple_nightmare_ts_engaged",
+      "name": "Luis R driftwood purple nightmare TS engaged",
+      "file_path": "nam_models/Luis R driftwood purple nightmare TS engaged.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "mikhail_k_sovtek_mig50",
+      "name": "Mikhail K Sovtek MIG50",
+      "file_path": "nam_models/Mikhail K Sovtek MIG50.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "mikhail_k_sovtekmig50_dod_fx56b",
+      "name": "Mikhail K SovtekMIG50 + DOD FX56B",
+      "file_path": "nam_models/Mikhail K SovtekMIG50 + DOD FX56B.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "mikhail_k_sovtekmig50_klone",
+      "name": "Mikhail K SovtekMIG50 + Klone",
+      "file_path": "nam_models/Mikhail K SovtekMIG50 + Klone.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "mikhail_k_sovtekmig50_sparkledrive",
+      "name": "Mikhail K SovtekMIG50 + SparkleDrive",
+      "file_path": "nam_models/Mikhail K SovtekMIG50 + SparkleDrive.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "mikhail_k_sovtekmig50_thronetorcher",
+      "name": "Mikhail K SovtekMIG50 + ThroneTorcher",
+      "file_path": "nam_models/Mikhail K SovtekMIG50 + ThroneTorcher.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_dirtytree_dt_33_v7_feather_esr_0_0001",
+      "name": "Peter N DirtyTree DT-33_V7_Feather_ESR-0.0001",
+      "file_path": "nam_models/Peter N DirtyTree DT-33_V7_Feather_ESR-0.0001.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "peter_n_dirtytree_dt_33_v7_lite_esr_0_0001",
+      "name": "Peter N DirtyTree DT-33_V7_Lite_ESR-0.0001",
+      "file_path": "nam_models/Peter N DirtyTree DT-33_V7_Lite_ESR-0.0001.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "peter_n_dirtytree_dt_33_v7_std_esr_0_0001",
+      "name": "Peter N DirtyTree DT-33_V7_Std_ESR-0.0001",
+      "file_path": "nam_models/Peter N DirtyTree DT-33_V7_Std_ESR-0.0001.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "peter_n_dirtytree_dt_tc_v7_l3_h7_feather_esr_0_000",
+      "name": "Peter N DirtyTree DT-TC_V7_L3_H7_Feather-ESR-0.0001",
+      "file_path": "nam_models/Peter N DirtyTree DT-TC_V7_L3_H7_Feather-ESR-0.0001.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "peter_n_dirtytree_dt_tc_v7_l3_h7_lite_esr_0_0001_v",
+      "name": "Peter N DirtyTree DT-TC_V7_L3_H7_Lite-ESR-0.0001_(v1)",
+      "file_path": "nam_models/Peter N DirtyTree DT-TC_V7_L3_H7_Lite-ESR-0.0001_(v1).nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "peter_n_dirtytree_dt_tc_v7_l3_h7_std_esr_0_0001_v1",
+      "name": "Peter N DirtyTree DT-TC_V7_L3_H7_Std_ESR-0.0001_(v1)",
+      "file_path": "nam_models/Peter N DirtyTree DT-TC_V7_L3_H7_Std_ESR-0.0001_(v1).nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_swede_feather_esr_0_0097",
+      "name": "Peter N HM-2_SWEDE_Feather_ESR-0.0097",
+      "file_path": "nam_models/Peter N HM-2_SWEDE_Feather_ESR-0.0097.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_swede_lite_esr_0_0057",
+      "name": "Peter N HM-2_SWEDE_Lite_ESR-0.0057",
+      "file_path": "nam_models/Peter N HM-2_SWEDE_Lite_ESR-0.0057.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_swede_std_esr_0_0034",
+      "name": "Peter N HM-2_SWEDE_Std_ESR-0.0034",
+      "file_path": "nam_models/Peter N HM-2_SWEDE_Std_ESR-0.0034.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l10_h10_d0_feather_esr_0_0015",
+      "name": "Peter N HM-2_V5_L10_H10_D0_Feather_ESR-0.0015",
+      "file_path": "nam_models/Peter N HM-2_V5_L10_H10_D0_Feather_ESR-0.0015.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l10_h10_d0_lite_esr_0_0007",
+      "name": "Peter N HM-2_V5_L10_H10_D0_lite_ESR-0.0007",
+      "file_path": "nam_models/Peter N HM-2_V5_L10_H10_D0_lite_ESR-0.0007.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l10_h10_d0_std_esr_0_0004",
+      "name": "Peter N HM-2_V5_L10_H10_D0_Std_ESR-0.0004",
+      "file_path": "nam_models/Peter N HM-2_V5_L10_H10_D0_Std_ESR-0.0004.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l10_h8_d2_feather_esr_0_0025",
+      "name": "Peter N HM-2_V5_L10_H8_D2_Feather-ESR-0.0025",
+      "file_path": "nam_models/Peter N HM-2_V5_L10_H8_D2_Feather-ESR-0.0025.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l10_h8_d2_lite_esr_0_0014",
+      "name": "Peter N HM-2_V5_L10_H8_D2_Lite_ESR-0.0014",
+      "file_path": "nam_models/Peter N HM-2_V5_L10_H8_D2_Lite_ESR-0.0014.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l10_h8_d2_std_esr_0_0008",
+      "name": "Peter N HM-2_V5_L10_H8_D2_Std_ESR-0.0008",
+      "file_path": "nam_models/Peter N HM-2_V5_L10_H8_D2_Std_ESR-0.0008.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l8_h4_d0_feather_esr_0_0025",
+      "name": "Peter N HM-2_V5_L8_H4_D0_Feather_ESR-0.0025",
+      "file_path": "nam_models/Peter N HM-2_V5_L8_H4_D0_Feather_ESR-0.0025.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l8_h4_d0_lite_esr_0_0015",
+      "name": "Peter N HM-2_V5_L8_H4_D0_Lite_ESR-0.0015",
+      "file_path": "nam_models/Peter N HM-2_V5_L8_H4_D0_Lite_ESR-0.0015.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "peter_n_hm_2_v5_l8_h4_d0_std_esr_0_0015",
+      "name": "Peter N HM-2_V5_L8_H4_D0_Std_ESR-0.0015",
+      "file_path": "nam_models/Peter N HM-2_V5_L8_H4_D0_Std_ESR-0.0015.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "phillipe_p_boss_sd1_feather_esr0_001",
+      "name": "Phillipe P BOSS-SD1-Feather-ESR0,001",
+      "file_path": "nam_models/Phillipe P BOSS-SD1-Feather-ESR0,001.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug1990_lead_nodrive_cab_esr0_011",
+      "name": "Phillipe P Bug1990-Lead-NoDrive-Cab-ESR0,011",
+      "file_path": "nam_models/Phillipe P Bug1990-Lead-NoDrive-Cab-ESR0,011.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug1990_lead_nodrive_esr0_004",
+      "name": "Phillipe P Bug1990-Lead-NoDrive-ESR0,004",
+      "file_path": "nam_models/Phillipe P Bug1990-Lead-NoDrive-ESR0,004.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug333_clean_cab_esr0_007",
+      "name": "Phillipe P Bug333-Clean-Cab-ESR0,007",
+      "file_path": "nam_models/Phillipe P Bug333-Clean-Cab-ESR0,007.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug333_clean_esr0_002",
+      "name": "Phillipe P Bug333-Clean-ESR0,002",
+      "file_path": "nam_models/Phillipe P Bug333-Clean-ESR0,002.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug333_crunch_dt_cab_esr0_014",
+      "name": "Phillipe P Bug333-Crunch-DT-Cab-ESR0,014",
+      "file_path": "nam_models/Phillipe P Bug333-Crunch-DT-Cab-ESR0,014.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug333_crunch_dt_esr0_0133",
+      "name": "Phillipe P Bug333-Crunch-DT-ESR0,0133",
+      "file_path": "nam_models/Phillipe P Bug333-Crunch-DT-ESR0,0133.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug333_crunch_nodrive_cab_esr0_005",
+      "name": "Phillipe P Bug333-Crunch-NoDrive-Cab-ESR0,005",
+      "file_path": "nam_models/Phillipe P Bug333-Crunch-NoDrive-Cab-ESR0,005.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug333_crunch_nodrive_esr0_002",
+      "name": "Phillipe P Bug333-Crunch-NoDrive-ESR0,002",
+      "file_path": "nam_models/Phillipe P Bug333-Crunch-NoDrive-ESR0,002.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug333_lead_nodrive_cab_esr0_007",
+      "name": "Phillipe P Bug333-Lead-NoDrive-Cab-ESR0,007",
+      "file_path": "nam_models/Phillipe P Bug333-Lead-NoDrive-Cab-ESR0,007.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug333_lead_nodrive_esr0_004",
+      "name": "Phillipe P Bug333-Lead-NoDrive-ESR0,004",
+      "file_path": "nam_models/Phillipe P Bug333-Lead-NoDrive-ESR0,004.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bug6262_crunch_nodrive_cab_esr0_004",
+      "name": "Phillipe P Bug6262-Crunch-NoDrive-Cab-ESR0,004",
+      "file_path": "nam_models/Phillipe P Bug6262-Crunch-NoDrive-Cab-ESR0,004.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bugera6262_crunch_nodrive_esr0_002",
+      "name": "Phillipe P Bugera6262-Crunch-NoDrive-ESR0,002",
+      "file_path": "nam_models/Phillipe P Bugera6262-Crunch-NoDrive-ESR0,002.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bugera6262_lead_m77_esr0_020",
+      "name": "Phillipe P Bugera6262-Lead-M77-ESR0,020",
+      "file_path": "nam_models/Phillipe P Bugera6262-Lead-M77-ESR0,020.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bugera6262_lead_m77_gain1_5_esr0_017",
+      "name": "Phillipe P Bugera6262-Lead-M77-Gain1,5-ESR0,017",
+      "file_path": "nam_models/Phillipe P Bugera6262-Lead-M77-Gain1,5-ESR0,017.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bugera6262_lead_nodrive_cab_esr0_009",
+      "name": "Phillipe P Bugera6262-Lead-NoDrive-Cab-ESR0,009",
+      "file_path": "nam_models/Phillipe P Bugera6262-Lead-NoDrive-Cab-ESR0,009.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_bugera6262_lead_nodrive_esr0_009",
+      "name": "Phillipe P Bugera6262-Lead-NoDrive-ESR0,009",
+      "file_path": "nam_models/Phillipe P Bugera6262-Lead-NoDrive-ESR0,009.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_dirty_tree_feather_esr0_001",
+      "name": "Phillipe P Dirty Tree-Feather-ESR0,001",
+      "file_path": "nam_models/Phillipe P Dirty Tree-Feather-ESR0,001.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "phillipe_p_jvm_cl_gr_nodrive_cab_esr0_007",
+      "name": "Phillipe P JVM-CL-GR-NoDrive-Cab-ESR0,007",
+      "file_path": "nam_models/Phillipe P JVM-CL-GR-NoDrive-Cab-ESR0,007.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_jvm_cl_gr_nodrive_esr0_005",
+      "name": "Phillipe P JVM-CL-GR-NoDrive-ESR0,005",
+      "file_path": "nam_models/Phillipe P JVM-CL-GR-NoDrive-ESR0,005.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_jvm_cr_or_nodrive_esr0_017",
+      "name": "Phillipe P JVM-CR-OR-NoDrive-ESR0,017",
+      "file_path": "nam_models/Phillipe P JVM-CR-OR-NoDrive-ESR0,017.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_jvm_cr_or_sd1_esr0_018",
+      "name": "Phillipe P JVM-CR-OR-SD1-ESR0,018",
+      "file_path": "nam_models/Phillipe P JVM-CR-OR-SD1-ESR0,018.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_jvm_od1_gr_m77_esr0_018",
+      "name": "Phillipe P JVM-OD1-GR-M77-ESR0,018",
+      "file_path": "nam_models/Phillipe P JVM-OD1-GR-M77-ESR0,018.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_jvm_od1_gr_nodrive_esr0_015",
+      "name": "Phillipe P JVM-OD1-GR-NoDrive-ESR0,015",
+      "file_path": "nam_models/Phillipe P JVM-OD1-GR-NoDrive-ESR0,015.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_jvm_od2_rd_nodrive_cab_esr0_006",
+      "name": "Phillipe P JVM-OD2-RD-NoDrive-Cab-ESR0,006",
+      "file_path": "nam_models/Phillipe P JVM-OD2-RD-NoDrive-Cab-ESR0,006.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_jvm_od2_rd_nodrive_esr0_003",
+      "name": "Phillipe P JVM-OD2-RD-NoDrive-ESR0,003",
+      "file_path": "nam_models/Phillipe P JVM-OD2-RD-NoDrive-ESR0,003.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_laneygh100s_hi_hinoon_esr0_024",
+      "name": "Phillipe P LaneyGH100S-Hi-HiNoon-ESR0,024",
+      "file_path": "nam_models/Phillipe P LaneyGH100S-Hi-HiNoon-ESR0,024.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_laneygh100s_hi_midgain_esr0_003",
+      "name": "Phillipe P LaneyGH100S-Hi-MidGain-ESR0,003",
+      "file_path": "nam_models/Phillipe P LaneyGH100S-Hi-MidGain-ESR0,003.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_laneygh100s_lo_afterbreakup_esr0_001",
+      "name": "Phillipe P LaneyGH100S-Lo-AfterBreakUp-ESR0,001",
+      "file_path": "nam_models/Phillipe P LaneyGH100S-Lo-AfterBreakUp-ESR0,001.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_laneygh100s_lo_crunchgain_esr0_024",
+      "name": "Phillipe P LaneyGH100S-Lo-CrunchGain-ESR0,024",
+      "file_path": "nam_models/Phillipe P LaneyGH100S-Lo-CrunchGain-ESR0,024.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_maxon_od808_feather_esr0_001",
+      "name": "Phillipe P Maxon-OD808-Feather-ESR0,001",
+      "file_path": "nam_models/Phillipe P Maxon-OD808-Feather-ESR0,001.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_mxr_m77_feather_esr0_001",
+      "name": "Phillipe P MXR-M77-Feather-ESR0,001",
+      "file_path": "nam_models/Phillipe P MXR-M77-Feather-ESR0,001.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_precision_drive_att4_feather_esr0_001",
+      "name": "Phillipe P Precision-Drive-Att4-Feather-ESR0,001",
+      "file_path": "nam_models/Phillipe P Precision-Drive-Att4-Feather-ESR0,001.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_precision_drive_feather_esr0_001",
+      "name": "Phillipe P Precision-Drive-Feather-ESR0,001",
+      "file_path": "nam_models/Phillipe P Precision-Drive-Feather-ESR0,001.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "phillipe_p_voxac15_jonar1",
+      "name": "Phillipe P VOXAC15-JonAr1",
+      "file_path": "nam_models/Phillipe P VOXAC15-JonAr1.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "british",
+        "chimey",
+        "high_gain",
+        "vox"
+      ]
+    },
+    {
+      "id": "phillipe_p_voxac15_jonar2",
+      "name": "Phillipe P VOXAC15-JonAr2",
+      "file_path": "nam_models/Phillipe P VOXAC15-JonAr2.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "british",
+        "chimey",
+        "high_gain",
+        "vox"
+      ]
+    },
+    {
+      "id": "phillipe_p_voxac15_jonar3",
+      "name": "Phillipe P VOXAC15-JonAr3",
+      "file_path": "nam_models/Phillipe P VOXAC15-JonAr3.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "british",
+        "chimey",
+        "high_gain",
+        "vox"
+      ]
+    },
+    {
+      "id": "phillipe_p_voxac15_jonar4",
+      "name": "Phillipe P VOXAC15-JonAr4",
+      "file_path": "nam_models/Phillipe P VOXAC15-JonAr4.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "british",
+        "chimey",
+        "high_gain",
+        "vox"
+      ]
+    },
+    {
+      "id": "phillipe_p_voxac15_topboost",
+      "name": "Phillipe P VOXAC15-TopBoost",
+      "file_path": "nam_models/Phillipe P VOXAC15-TopBoost.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "british",
+        "chimey",
+        "high_gain",
+        "vox"
+      ]
+    },
+    {
+      "id": "roman_a_bugera_333",
+      "name": "Roman A BUGERA_333",
+      "file_path": "nam_models/Roman A BUGERA_333.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "roman_a_bugera_333_boosted",
+      "name": "Roman A BUGERA_333_BOOSTED",
+      "file_path": "nam_models/Roman A BUGERA_333_BOOSTED.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "roman_a_lt_mesa_markiv_1",
+      "name": "Roman A LT_MESA_MARKIV_1",
+      "file_path": "nam_models/Roman A LT_MESA_MARKIV_1.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "mesa",
+        "crunch",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "roman_a_yerasov_meshuggah",
+      "name": "Roman A YERASOV_MESHUGGAH",
+      "file_path": "nam_models/Roman A YERASOV_MESHUGGAH.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "roman_a_yerasov_meshuggah_boosted",
+      "name": "Roman A YERASOV_MESHUGGAH_BOOSTED",
+      "file_path": "nam_models/Roman A YERASOV_MESHUGGAH_BOOSTED.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "sascha_s_dirtyshirleycrunch_g4_buxboosttight",
+      "name": "Sascha S DirtyShirleyCrunch_G4_BuxBoostTight",
+      "file_path": "nam_models/Sascha S DirtyShirleyCrunch_G4_BuxBoostTight.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "sascha_s_dirtyshirleymini_clean_b1_m6_t7_mv10_g4",
+      "name": "Sascha S DirtyShirleyMini_Clean_B1_M6_T7_MV10_G4",
+      "file_path": "nam_models/Sascha S DirtyShirleyMini_Clean_B1_M6_T7_MV10_G4.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "sascha_s_dirtyshirleymini_crunch_b4_m5_5_t6_mv6_g4",
+      "name": "Sascha S DirtyShirleyMini_crunch_B4_M5.5_T6_MV6_G4_GS_high",
+      "file_path": "nam_models/Sascha S DirtyShirleyMini_crunch_B4_M5.5_T6_MV6_G4_GS_high.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "sascha_s_dirtyshirleymini_crunch_g6",
+      "name": "Sascha S DirtyShirleyMini_crunch_G6",
+      "file_path": "nam_models/Sascha S DirtyShirleyMini_crunch_G6.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "sascha_s_dirtyshirleymini_crunch_g6_preq",
+      "name": "Sascha S DirtyShirleyMini_crunch_G6_PreQ",
+      "file_path": "nam_models/Sascha S DirtyShirleyMini_crunch_G6_PreQ.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "sascha_s_dirtyshirleymini_crunch_g8",
+      "name": "Sascha S DirtyShirleyMini_crunch_G8",
+      "file_path": "nam_models/Sascha S DirtyShirleyMini_crunch_G8.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "sascha_s_dirtyshirleymini_lowdrive_g6_gainstruclow",
+      "name": "Sascha S DirtyShirleyMini_lowDrive_G6_GainStrucLow",
+      "file_path": "nam_models/Sascha S DirtyShirleyMini_lowDrive_G6_GainStrucLow.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "sascha_s_dirtyshirleymini_lowgain_mv10_g3_5_klonbo",
+      "name": "Sascha S DirtyShirleyMini_lowGain_MV10_G3.5_klonboost",
+      "file_path": "nam_models/Sascha S DirtyShirleyMini_lowGain_MV10_G3.5_klonboost.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "sascha_s_friedmandsm_powerampel84_mv10_feather",
+      "name": "Sascha S FriedmanDSM_PowerAmpEL84_MV10_feather",
+      "file_path": "nam_models/Sascha S FriedmanDSM_PowerAmpEL84_MV10_feather.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "sascha_s_friedmandsm_powerampel84_mv6_feather",
+      "name": "Sascha S FriedmanDSM_PowerAmpEL84_MV6_feather",
+      "file_path": "nam_models/Sascha S FriedmanDSM_PowerAmpEL84_MV6_feather.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_5152_clean_ish",
+      "name": "Tim R 5152 Clean ish",
+      "file_path": "nam_models/Tim R 5152 Clean ish.nam",
+      "capture_type": "nam_model",
+      "style": "clean",
+      "gain_range": "clean",
+      "brightness": "neutral",
+      "tags": [
+        "clean"
+      ]
+    },
+    {
+      "id": "tim_r_5152_crunch_ts9",
+      "name": "Tim R 5152 Crunch + TS9",
+      "file_path": "nam_models/Tim R 5152 Crunch + TS9.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_5152_crunch_no_boost",
+      "name": "Tim R 5152 Crunch No Boost",
+      "file_path": "nam_models/Tim R 5152 Crunch No Boost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_5152_lead_ts9",
+      "name": "Tim R 5152 Lead + TS9",
+      "file_path": "nam_models/Tim R 5152 Lead + TS9.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_5152_lead_no_boost",
+      "name": "Tim R 5152 Lead No Boost",
+      "file_path": "nam_models/Tim R 5152 Lead No Boost.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_fender_twinverb_norm_bright",
+      "name": "Tim R Fender TwinVerb Norm Bright",
+      "file_path": "nam_models/Tim R Fender TwinVerb Norm Bright.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "bright",
+      "tags": [
+        "crunch",
+        "fender",
+        "american"
+      ]
+    },
+    {
+      "id": "tim_r_fender_twinverb_vibrato_bright",
+      "name": "Tim R Fender TwinVerb Vibrato Bright",
+      "file_path": "nam_models/Tim R Fender TwinVerb Vibrato Bright.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "bright",
+      "tags": [
+        "crunch",
+        "fender",
+        "american"
+      ]
+    },
+    {
+      "id": "tim_r_jcm2000_clean",
+      "name": "Tim R JCM2000 Clean",
+      "file_path": "nam_models/Tim R JCM2000 Clean.nam",
+      "capture_type": "nam_model",
+      "style": "clean",
+      "gain_range": "clean",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "clean",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm2000_crunch_805_d",
+      "name": "Tim R JCM2000 Crunch 805'd",
+      "file_path": "nam_models/Tim R JCM2000 Crunch 805'd.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm2000_crunch",
+      "name": "Tim R JCM2000 Crunch",
+      "file_path": "nam_models/Tim R JCM2000 Crunch.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm2000_l2_g6_805_d",
+      "name": "Tim R JCM2000 L2 G6 805'd",
+      "file_path": "nam_models/Tim R JCM2000 L2 G6 805'd.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm2000_l2_g6",
+      "name": "Tim R JCM2000 L2 G6",
+      "file_path": "nam_models/Tim R JCM2000 L2 G6.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm2000_l2_g8_805_d",
+      "name": "Tim R JCM2000 L2 G8 805'd",
+      "file_path": "nam_models/Tim R JCM2000 L2 G8 805'd.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm2000_l2_g8",
+      "name": "Tim R JCM2000 L2 G8",
+      "file_path": "nam_models/Tim R JCM2000 L2 G8.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm90050wdualverbchag10",
+      "name": "Tim R JCM90050WDualVerbchAG10",
+      "file_path": "nam_models/Tim R JCM90050WDualVerbchAG10.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm90050wdualverbchag4",
+      "name": "Tim R JCM90050WDualVerbChAG4",
+      "file_path": "nam_models/Tim R JCM90050WDualVerbChAG4.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm90050wdualverbchag6",
+      "name": "Tim R JCM90050WDualVerbCHAG6",
+      "file_path": "nam_models/Tim R JCM90050WDualVerbCHAG6.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm90050wdualverbchag8",
+      "name": "Tim R JCM90050WDualVerbChAG8",
+      "file_path": "nam_models/Tim R JCM90050WDualVerbChAG8.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm90050wdualverbchbg12",
+      "name": "Tim R JCM90050WDualVerbChBG12",
+      "file_path": "nam_models/Tim R JCM90050WDualVerbChBG12.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm90050wdualverbchbg16",
+      "name": "Tim R JCM90050WDualVerbChBG16",
+      "file_path": "nam_models/Tim R JCM90050WDualVerbChBG16.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm90050wdualverbchbg20",
+      "name": "Tim R JCM90050WDualVerbChBG20",
+      "file_path": "nam_models/Tim R JCM90050WDualVerbChBG20.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jcm90050wdualverbchbg8",
+      "name": "Tim R JCM90050WDualVerbChBG8",
+      "file_path": "nam_models/Tim R JCM90050WDualVerbChBG8.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "marshall",
+        "crunch",
+        "british"
+      ]
+    },
+    {
+      "id": "tim_r_jet_city_g2",
+      "name": "Tim R Jet City G2",
+      "file_path": "nam_models/Tim R Jet City G2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_jet_city_g4",
+      "name": "Tim R Jet City G4",
+      "file_path": "nam_models/Tim R Jet City G4.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_jet_city_g5",
+      "name": "Tim R Jet City G5",
+      "file_path": "nam_models/Tim R Jet City G5.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_jet_city_g6",
+      "name": "Tim R Jet City G6",
+      "file_path": "nam_models/Tim R Jet City G6.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_jet_city_g9_boosted",
+      "name": "Tim R Jet City G9 Boosted",
+      "file_path": "nam_models/Tim R Jet City G9 Boosted.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_ts9_on_full",
+      "name": "Tim R Magnatone Super 59 MKii - TS9 On Full",
+      "file_path": "nam_models/Tim R Magnatone Super 59 MKii - TS9 On Full.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_bridged_blend",
+      "name": "Tim R Magnatone Super 59 MKii Bridged Blend",
+      "file_path": "nam_models/Tim R Magnatone Super 59 MKii Bridged Blend.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "blend",
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_bridged_br_bias",
+      "name": "Tim R Magnatone Super 59 Mkii Bridged BR Bias",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Bridged BR Bias.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_bridged_driven",
+      "name": "Tim R Magnatone Super 59 MKii Bridged Driven",
+      "file_path": "nam_models/Tim R Magnatone Super 59 MKii Bridged Driven.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_bridged_kloned",
+      "name": "Tim R Magnatone Super 59 Mkii Bridged Kloned",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Bridged Kloned.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_ch1_br",
+      "name": "Tim R Magnatone Super 59 Mkii Ch1 Br",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Ch1 Br.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_ch1_norm",
+      "name": "Tim R Magnatone Super 59 Mkii Ch1 Norm",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Ch1 Norm.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_ch2_br",
+      "name": "Tim R Magnatone Super 59 Mkii Ch2 Br",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Ch2 Br.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_ch2_norm",
+      "name": "Tim R Magnatone Super 59 Mkii Ch2 Norm",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Ch2 Norm.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_max_d_ts9",
+      "name": "Tim R Magnatone Super 59 Mkii Max'd TS9",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Max'd TS9.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_max_d",
+      "name": "Tim R Magnatone Super 59 Mkii Max'd",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Max'd.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_pushed_ts9",
+      "name": "Tim R Magnatone Super 59 Mkii Pushed TS9",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Pushed TS9.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_magnatone_super_59_mkii_pushed",
+      "name": "Tim R Magnatone Super 59 Mkii Pushed",
+      "file_path": "nam_models/Tim R Magnatone Super 59 Mkii Pushed.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_seymour_duncan_805",
+      "name": "Tim R Seymour Duncan 805",
+      "file_path": "nam_models/Tim R Seymour Duncan 805.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_1st_gear_g12",
+      "name": "Tim R Splawn Pro Mod 1st Gear - G12",
+      "file_path": "nam_models/Tim R Splawn Pro Mod 1st Gear - G12.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_2nd_gear_g12",
+      "name": "Tim R Splawn Pro Mod 2nd Gear - G12",
+      "file_path": "nam_models/Tim R Splawn Pro Mod 2nd Gear - G12.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_3rd_gear_g12",
+      "name": "Tim R Splawn Pro Mod 3rd Gear - G12",
+      "file_path": "nam_models/Tim R Splawn Pro Mod 3rd Gear - G12.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_g10_gear_1_od2",
+      "name": "Tim R Splawn Pro Mod G10 Gear 1 OD2",
+      "file_path": "nam_models/Tim R Splawn Pro Mod G10 Gear 1 OD2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_g10_gear_1",
+      "name": "Tim R Splawn Pro Mod G10 Gear 1",
+      "file_path": "nam_models/Tim R Splawn Pro Mod G10 Gear 1.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_g10_gear_2_od2",
+      "name": "Tim R Splawn Pro Mod G10 Gear 2 OD2",
+      "file_path": "nam_models/Tim R Splawn Pro Mod G10 Gear 2 OD2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_g10_gear_2",
+      "name": "Tim R Splawn Pro Mod G10 Gear 2",
+      "file_path": "nam_models/Tim R Splawn Pro Mod G10 Gear 2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_g10_gear_3_od2",
+      "name": "Tim R Splawn Pro Mod G10 Gear 3 OD2",
+      "file_path": "nam_models/Tim R Splawn Pro Mod G10 Gear 3 OD2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_g10_gear_3",
+      "name": "Tim R Splawn Pro Mod G10 Gear 3",
+      "file_path": "nam_models/Tim R Splawn Pro Mod G10 Gear 3.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_g12_gear_2_od2_ts9",
+      "name": "Tim R Splawn Pro Mod G12 Gear 2 OD2 TS9",
+      "file_path": "nam_models/Tim R Splawn Pro Mod G12 Gear 2 OD2 TS9.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_splawn_pro_mod_g12_gear_3_od2_ts9",
+      "name": "Tim R Splawn Pro Mod G12 Gear 3 OD2 TS9",
+      "file_path": "nam_models/Tim R Splawn Pro Mod G12 Gear 3 OD2 TS9.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_ts9_driven",
+      "name": "Tim R TS9 Driven",
+      "file_path": "nam_models/Tim R TS9 Driven.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tim_r_ts9",
+      "name": "Tim R TS9",
+      "file_path": "nam_models/Tim R TS9.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tom_c_axe_fx_2_engl_savage",
+      "name": "Tom C Axe FX 2 Engl Savage",
+      "file_path": "nam_models/Tom C Axe FX 2 Engl Savage.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tom_c_axe_fx_2_orange_rockerverb",
+      "name": "Tom C Axe FX 2 Orange Rockerverb",
+      "file_path": "nam_models/Tom C Axe FX 2 Orange Rockerverb.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tom_c_engl_e530_preamp_840_power_amp_with_boss_ds1",
+      "name": "Tom C Engl e530 preamp & 840 power amp with Boss DS1 Overdrive",
+      "file_path": "nam_models/Tom C Engl e530 preamp & 840 power amp with Boss DS1 Overdrive.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_ceriatone_molecular_50",
+      "name": "Tudor N Ceriatone Molecular 50",
+      "file_path": "nam_models/Tudor N Ceriatone Molecular 50.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_demonfx_dual_boost_fortin_33_side_knob_5_e",
+      "name": "Tudor N Demonfx Dual Boost - Fortin 33 side Knob@5 ESR_0.0017_lite",
+      "file_path": "nam_models/Tudor N Demonfx Dual Boost - Fortin 33 side Knob@5 ESR_0.0017_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_demonfx_dual_boost_xotic_ep_boost_side_kno",
+      "name": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@down ESR_0.0013_lite",
+      "file_path": "nam_models/Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@down ESR_0.0013_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_demonfx_dual_boost_xotic_ep_boost_side_kno",
+      "name": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@up ESR_0.0026_lite",
+      "file_path": "nam_models/Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@down_SW2@up ESR_0.0026_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_demonfx_dual_boost_xotic_ep_boost_side_kno",
+      "name": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@down ESR_0.0016_lite",
+      "file_path": "nam_models/Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@down ESR_0.0016_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_demonfx_dual_boost_xotic_ep_boost_side_kno",
+      "name": "Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@up ESR_0.0023_lite",
+      "file_path": "nam_models/Tudor N Demonfx Dual Boost - Xotic EP boost side Knob@5_SW1@up_SW2@up ESR_0.0023_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_driftwood_nightmare_high_gain_hm2",
+      "name": "Tudor N Driftwood Nightmare High Gain   HM2",
+      "file_path": "nam_models/Tudor N Driftwood Nightmare High Gain   HM2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_driftwood_nightmare_low_gain_ts",
+      "name": "Tudor N Driftwood Nightmare Low Gain   TS",
+      "file_path": "nam_models/Tudor N Driftwood Nightmare Low Gain   TS.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_driftwood_nightmare_low_gain",
+      "name": "Tudor N Driftwood Nightmare Low Gain",
+      "file_path": "nam_models/Tudor N Driftwood Nightmare Low Gain.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_fortin_grind_mini_knob_5_esr_0_0012_lite",
+      "name": "Tudor N Fortin Grind Mini Knob @ 5 ESR_0.0012_lite",
+      "file_path": "nam_models/Tudor N Fortin Grind Mini Knob @ 5 ESR_0.0012_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_fortin_grind_mini_knob_5_esr_0_0017_standa",
+      "name": "Tudor N Fortin Grind Mini Knob @ 5 ESR_0.0017_standard",
+      "file_path": "nam_models/Tudor N Fortin Grind Mini Knob @ 5 ESR_0.0017_standard.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_ibanez_tube_screamer_mini_tone_10_level_10",
+      "name": "Tudor N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0006_lite",
+      "file_path": "nam_models/Tudor N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0006_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_ibanez_tube_screamer_mini_tone_10_level_10",
+      "name": "Tudor N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0007_standard",
+      "file_path": "nam_models/Tudor N Ibanez Tube Screamer Mini Tone@10_Level@10_Overdrive@0 ESR_0.0007_standard.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_ibanez_tube_screamer_mini_tone_5_level_5_o",
+      "name": "Tudor N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0005_lite",
+      "file_path": "nam_models/Tudor N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0005_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_ibanez_tube_screamer_mini_tone_5_level_5_o",
+      "name": "Tudor N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0008_standard",
+      "file_path": "nam_models/Tudor N Ibanez Tube Screamer Mini Tone@5_Level@5_Overdrive@5 ESR_0.0008_standard.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_ibanez_tube_screamer_mini_tone_8_level_8_o",
+      "name": "Tudor N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0004_lite",
+      "file_path": "nam_models/Tudor N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0004_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_ibanez_tube_screamer_mini_tone_8_level_8_o",
+      "name": "Tudor N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0005_standard",
+      "file_path": "nam_models/Tudor N Ibanez Tube Screamer Mini Tone@8_Level@8_Overdrive@0 ESR_0.0005_standard.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_10_",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_10_",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008_lite",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0008_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_10_",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0014_lite",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0014_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_10_",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0016",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@10_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0016.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_5_o",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0018_lite",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0018_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_5_o",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0019_standard",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0019_standard.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_5_o",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0026_lite",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0026_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_5_o",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0029_standard",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0029_standard.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_6_5",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_lite",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_6_5",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_standard",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@off ESR_0.0010_standard.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_6_5",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_lite",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_6_5",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_standard",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@0_100HZ@2_Bump@on ESR_0.0018_standard.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_6_5",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_mxr_m77_custom_badass_modified_od_tone_6_5",
+      "name": "Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018_lite",
+      "file_path": "nam_models/Tudor N MXR M77 Custom Badass Modified OD Tone@6.5_Output@10_Gain@1_100HZ@2_Bump@on ESR_0.0018_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "di"
+      ]
+    },
+    {
+      "id": "tudor_n_precision_drive_pedalpcb_vol_6_drv_0_brgt_",
+      "name": "Tudor N Precision Drive (pedalPCB) Vol@6_Drv@0_Brgt@5.5_Atk@4_ESR_0.0004_lite",
+      "file_path": "nam_models/Tudor N Precision Drive (pedalPCB) Vol@6_Drv@0_Brgt@5.5_Atk@4_ESR_0.0004_lite.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_mesa_2x12_input_hi_dep_6_gir_6_5_pres_8_5_",
+      "name": "Tudor N [Mesa 2x12] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0146_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Mesa 2x12] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0146_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "mesa",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_4_gir_2_pres_5_bas_6_",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@4_Gir@2_Pres@5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@4_Gir@2_Pres@5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_5_gir_5_pres_5_bas_10",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0151_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0151_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_5_gir_5_pres_5_bas_10",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0265_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0265_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_5_gir_5_pres_5_bas_10",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0119_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@10_Mid@10_Tre@10_Mas@10_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0119_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_5_gir_5_pres_5_bas_5_",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0097_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_5_gir_5_pres_5_bas_5_",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0048_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0048_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_5_gir_5_pres_5_bas_5_",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0142_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@5_Gir@5_Pres@5_Bas@5_Mid@5_Tre@5_Mas@5_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0142_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_5_ba",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0124_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0124_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_5_ba",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0161_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0161_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_5_ba",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0106_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0106_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_5_ba",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0109_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@4_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0109_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_5_ba",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0115_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0115_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_5_ba",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0131_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@10_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0131_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_5_ba",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0104_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0104_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_5_ba",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0135_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8.5_Bas@6.5_Mid@5_Tre@10_Mas@8_Gain@5_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0135_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_bas_",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0192_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0192_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_bas_",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0076_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@mid_EDG@mid_FEL@up ESR_0.0076_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_6_gir_6_5_pres_8_bas_",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0190_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@6_Gir@6.5_Pres@8_Bas@6.5_Mid@6_Tre@10_Mas@5_Gain@8_CHAR@mid_ERA@rgt_EDG@mid_FEL@up ESR_0.0190_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_input_hi_dep_8_gir_6_5_pres_8_bas_",
+      "name": "Tudor N [Suhr RL] Input@HI_Dep@8_Gir@6.5_Pres@8_Bas@6.5_Mid@4.5_Tre@9_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0125_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Input@HI_Dep@8_Gir@6.5_Pres@8_Bas@6.5_Mid@4.5_Tre@9_Mas@5_Gain@10_CHAR@mid_ERA@lft_EDG@mid_FEL@up ESR_0.0125_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "high_gain"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_poweramp_dep_10_gir_10_pres_10_mas",
+      "name": "Tudor N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@10 ESR_0.0135_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@10 ESR_0.0135_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_poweramp_dep_10_gir_10_pres_10_mas",
+      "name": "Tudor N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@5 ESR_0.0137_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Poweramp_Dep@10_Gir@10_Pres@10_Mas@5 ESR_0.0137_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_poweramp_dep_5_gir_5_pres_5_mas_10",
+      "name": "Tudor N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@10 ESR_0.0144_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@10 ESR_0.0144_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_poweramp_dep_5_gir_5_pres_5_mas_5_",
+      "name": "Tudor N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@5 ESR_0.0114_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Poweramp_Dep@5_Gir@5_Pres@5_Mas@5 ESR_0.0114_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "tudor_n_suhr_rl_poweramp_dep_8_gir_5_pres_8_mas_5_",
+      "name": "Tudor N [Suhr RL] Poweramp_Dep@8_Gir@5_Pres@8_Mas@5 ESR_0.0128_normalized-6dB",
+      "file_path": "nam_models/Tudor N [Suhr RL] Poweramp_Dep@8_Gir@5_Pres@8_Mas@5 ESR_0.0128_normalized-6dB.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_blend_1_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - BLEND #1 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - BLEND #1 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_blend_1",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - BLEND #1",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - BLEND #1.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_blend_2_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - BLEND #2 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - BLEND #2 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_blend_2",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - BLEND #2",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - BLEND #2.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_blend_3_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - BLEND #3 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - BLEND #3 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_blend_3",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - BLEND #3",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - BLEND #3.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_di_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - DI [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - DI [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_di",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - DI",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - DI.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_sm57_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - SM57 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - SM57 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "sm57",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_sm57",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - SM57",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - SM57.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "sm57",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_sm58_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - SM58 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - SM58 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "sm58",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_slp_sm58",
+      "name": "[AMP] F.PLEX-HV-Hi SLP - SM58",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi SLP - SM58.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "sm58",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_blend_1_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #1 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #1 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_blend_1",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #1",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #1.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_blend_2_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #2 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #2 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_blend_2",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #2",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #2.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_blend_3_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #3 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #3 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_blend_3",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #3",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - BLEND #3.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_di_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - DI [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - DI [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_di",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - DI",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - DI.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_sm57_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - SM57 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - SM57 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "sm57",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_sm57",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - SM57",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - SM57.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "sm57",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_sm58_revyhi",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - SM58 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - SM58 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "sm58",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_hv_hi_vintage_affair_sm58",
+      "name": "[AMP] F.PLEX-HV-Hi Vintage Affair - SM58",
+      "file_path": "nam_models/[AMP] F.PLEX-HV-Hi Vintage Affair - SM58.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "sm58",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_blend_1_revyh",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #1 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #1 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_blend_1",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #1",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #1.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_blend_2_revyh",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #2 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #2 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_blend_2",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #2",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #2.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_blend_3_revyh",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #3 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #3 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_blend_3",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #3",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - BLEND #3.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_di_revyhi",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - DI [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - DI [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_di",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - DI",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - DI.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_sm57_revyhi",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - SM57 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - SM57 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "sm57",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_sm57",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - SM57",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - SM57.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "sm57",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_sm58_revyhi",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - SM58 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - SM58 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "sm58",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_hi_still_got_the_glues_sm58",
+      "name": "[AMP] F.PLEX-LV-Hi Still got the Glues - SM58",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Hi Still got the Glues - SM58.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "neutral",
+      "tags": [
+        "sm58",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_blend_1_revyhi",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - BLEND #1 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - BLEND #1 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_blend_1",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - BLEND #1",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - BLEND #1.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "fender",
+        "american",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_blend_2_revyhi",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - BLEND #2 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - BLEND #2 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_blend_2",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - BLEND #2",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - BLEND #2.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "fender",
+        "american",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_blend_3_revyhi",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - BLEND #3 [REVyHi]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - BLEND #3 [REVyHi].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_blend_3",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - BLEND #3",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - BLEND #3.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "fender",
+        "american",
+        "blend"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_di_revyhi",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - DI [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - DI [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "fender",
+        "american",
+        "high_gain",
+        "di"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_di",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - DI",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - DI.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "crunch",
+        "fender",
+        "american",
+        "di"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_sm57_revyhi",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - SM57 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - SM57 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "sm57",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_sm57",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - SM57",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - SM57.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "sm57",
+        "crunch",
+        "fender",
+        "american"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_sm58_revyhi",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - SM58 [REVyHI]",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - SM58 [REVyHI].nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "bright",
+      "tags": [
+        "sm58",
+        "fender",
+        "american",
+        "high_gain"
+      ]
+    },
+    {
+      "id": "amp_f_plex_lv_lo_brownie_sm58",
+      "name": "[AMP] F.PLEX-LV-Lo Brownie - SM58",
+      "file_path": "nam_models/[AMP] F.PLEX-LV-Lo Brownie - SM58.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": [
+        "sm58",
+        "crunch",
+        "fender",
+        "american"
+      ]
+    }
+  ],
+  "cab_irs": [
+    {
+      "id": "blue_alnico_2x12",
+      "name": "blue_alnico_2x12",
+      "file_path": "cab_irs/blue_alnico_2x12.wav",
+      "capture_type": "cab_ir",
+      "style": "neutral",
+      "brightness": "neutral",
+      "tags": [
+        "2x12"
+      ]
+    },
+    {
+      "id": "greenback_4x12",
+      "name": "greenback_4x12",
+      "file_path": "cab_irs/greenback_4x12.wav",
+      "capture_type": "cab_ir",
+      "style": "neutral",
+      "brightness": "neutral",
+      "tags": [
+        "greenback",
+        "4x12"
+      ]
+    },
+    {
+      "id": "jensen_p12r_1x12",
+      "name": "jensen_p12r_1x12",
+      "file_path": "cab_irs/jensen_p12r_1x12.wav",
+      "capture_type": "cab_ir",
+      "style": "neutral",
+      "brightness": "bright",
+      "tags": [
+        "1x12"
+      ]
+    },
+    {
+      "id": "v30_4x12_modern",
+      "name": "v30_4x12_modern",
+      "file_path": "cab_irs/v30_4x12_modern.wav",
+      "capture_type": "cab_ir",
+      "style": "neutral",
+      "brightness": "neutral",
+      "tags": [
+        "v30",
+        "4x12"
+      ]
+    }
+  ]
+}

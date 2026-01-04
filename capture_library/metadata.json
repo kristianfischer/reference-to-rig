@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "description": "Reference-to-Rig Capture Library",
+  "nam_models": [
+    {
+      "id": "fender_twin_clean",
+      "name": "Clean Fender Twin",
+      "file_path": "nam_models/fender_twin_clean.nam",
+      "capture_type": "nam_model",
+      "style": "clean",
+      "gain_range": "clean",
+      "brightness": "bright",
+      "tags": ["fender", "clean", "sparkle", "american"]
+    },
+    {
+      "id": "marshall_jcm800_crunch",
+      "name": "Crunch Marshall JCM800",
+      "file_path": "nam_models/marshall_jcm800_crunch.nam",
+      "capture_type": "nam_model",
+      "style": "crunch",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": ["marshall", "crunch", "british", "rock"]
+    },
+    {
+      "id": "mesa_rectifier_high",
+      "name": "High Gain Mesa Rectifier",
+      "file_path": "nam_models/mesa_rectifier_high.nam",
+      "capture_type": "nam_model",
+      "style": "high_gain",
+      "gain_range": "high_gain",
+      "brightness": "dark",
+      "tags": ["mesa", "high_gain", "metal", "modern"]
+    },
+    {
+      "id": "vox_ac30_chime",
+      "name": "Vox AC30 Chime",
+      "file_path": "nam_models/vox_ac30_chime.nam",
+      "capture_type": "nam_model",
+      "style": "clean",
+      "gain_range": "clean",
+      "brightness": "bright",
+      "tags": ["vox", "clean", "chime", "jangle", "british"]
+    },
+    {
+      "id": "dumble_od_smooth",
+      "name": "Dumble Overdrive Smooth",
+      "file_path": "nam_models/dumble_od_smooth.nam",
+      "capture_type": "nam_model",
+      "style": "overdrive",
+      "gain_range": "crunch",
+      "brightness": "neutral",
+      "tags": ["dumble", "overdrive", "smooth", "boutique"]
+    }
+  ],
+  "cab_irs": [
+    {
+      "id": "greenback_4x12",
+      "name": "Celestion Greenback 4x12",
+      "file_path": "cab_irs/greenback_4x12.wav",
+      "capture_type": "cab_ir",
+      "style": "vintage",
+      "brightness": "neutral",
+      "tags": ["celestion", "greenback", "4x12", "british"]
+    },
+    {
+      "id": "jensen_p12r_1x12",
+      "name": "Jensen P12R 1x12",
+      "file_path": "cab_irs/jensen_p12r_1x12.wav",
+      "capture_type": "cab_ir",
+      "style": "vintage",
+      "brightness": "bright",
+      "tags": ["jensen", "vintage", "clean", "american"]
+    },
+    {
+      "id": "v30_4x12_modern",
+      "name": "V30 4x12 Modern",
+      "file_path": "cab_irs/v30_4x12_modern.wav",
+      "capture_type": "cab_ir",
+      "style": "modern",
+      "brightness": "neutral",
+      "tags": ["v30", "modern", "tight", "metal"]
+    },
+    {
+      "id": "blue_alnico_2x12",
+      "name": "Blue Alnico 2x12",
+      "file_path": "cab_irs/blue_alnico_2x12.wav",
+      "capture_type": "cab_ir",
+      "style": "vintage",
+      "brightness": "bright",
+      "tags": ["celestion", "blue", "chime", "british"]
+    }
+  ]
+}
+
+
